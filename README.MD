@@ -1,5 +1,7 @@
 # MULTI TRANSFER TOKENS
 
+# ONLINE USAGE
+
 Fill fromAddr, privateKey, tokenSmartContractAddr in index.js.
 
 ```
@@ -40,3 +42,6 @@ node index.js
 
 ```
 
+# OFFLINE USAGE
+
+Please use offline.js, online.js
